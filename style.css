@@ -1,0 +1,36 @@
+header{
+    font-size: 14px;
+    color:black;
+    background-color: none;
+    height: 20px
+}
+footer{
+    background-color: none;
+
+}
+main{
+    background-color: none;
+    font-size: 14px;
+    background-color: lightblue;
+}
+h2{
+    font-size: 24px;
+    font-family: 'Times New Roman', Times, serif;
+    color: black;
+}
+h3{
+    color: black;
+    font-size: 14px;
+    height: 20px;
+}
+nav{
+    color: black;
+    font-size: 14px;
+}
+div{
+    padding-right: 50px;
+    padding-top: 20px;
+    margin-left: 5px;
+    text-align: left;
+}
+
